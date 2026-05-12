@@ -1,7 +1,7 @@
 {
     "Flex": 2,
     "name": "Sonic 1",
-    "node": "6849c634-8f9d-4bfb-b75b-f5fd12d8ec5d",
+    "node": "5199fe1a-b581-4c21-9771-6849c6348f9d",
     "objects": [
         {
             "name": "Mapless Objects",
@@ -643,7 +643,7 @@
                 }
             ],
             "isDirectory": true,
-            "expanded": true,
+            "expanded": false,
             "uuid": "ce153665-30cc-4eae-9eb7-0a5bc10919c3"
         },
         {
